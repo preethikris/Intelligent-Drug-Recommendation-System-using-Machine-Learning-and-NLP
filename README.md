@@ -1,0 +1,2 @@
+# Intelligent-Drug-Recommendation-System-using-Machine-Learning-and-NLP
+The Intelligent Drug Recommendation System is a smart application that helps users find suitable medicines for different health conditions based on patient reviews and ratings. The system studies feedback given by people who have already used various medicines and identifies which drugs worked better for specific diseases or conditions. 
