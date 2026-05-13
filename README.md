@@ -124,9 +124,15 @@ drug_project/
 pip install -r requirements.txt
 streamlit run app.py
 ```
+# Can see my streamlit
+```
+```
+https://57tnsvzzgnyatgcdka2hrw.streamlit.app/
+```
+```
 <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/eb483381-2b5b-41cf-9537-7cd48f829da4" />
 "
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/ba16a83e-f13b-4784-880e-00b2f03ee133" />
 "
 <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/ac8b54c0-aa84-498b-b61e-9f1aab3c7ead" />
-
+```
